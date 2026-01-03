@@ -55,7 +55,13 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
 <img src="https://flagcdn.com/w20/es.png" width="20" height="15" /> Español : notions (non profesionnal)
 
 
-### Projets sélectionnés (en cours)
+### Projets (en cours)
+
+🔸 **Learning & technical training projects — Foundations**
+- Python foundations for data analysis
+- Pandas & data wrangling
+- Exploratory Data Analysis (EDA)
+- SQL for analytics and reporting
 
 🔹 **Data Cleaning & Business Analysis**
 - Nettoyage de données issues de systèmes métiers
@@ -71,3 +77,5 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
 - Scripts de transformation de données
 - Analyse exploratoire (EDA)
 - Structuration de pipelines simples
+
+
