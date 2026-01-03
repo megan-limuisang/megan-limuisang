@@ -1,7 +1,15 @@
-## Junior Data / Business Analyst — orientée data produit & opérations
+
+## EN: Junior Data / Business Analyst — Business & Operations Focused
+
+Junior data/business analyst with strong operational experience in international B2B environments.
+I focus on **practical, business-oriented data analysis**: data cleaning, analysis, visualization and actionable insights to support decision-making.<br><br>
+
+----------------
+<br>
+
+## FR: Junior Data / Business Analyst — orientée data produit & opérations
 
 Analyste junior en data / business, avec une solide expérience opérationnelle en environnement international (export, B2B, pharma).
-
 Je travaille sur des cas concrets orientés **business, opérations et prise de décision**, avec une approche structurée de la donnée : nettoyage, analyse, visualisation et storytelling.
 
 
