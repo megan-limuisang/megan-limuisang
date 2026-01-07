@@ -13,7 +13,7 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/megan-li-mui-sang">
+  <a href="[https://linkedin.com/in/megan-li-mui-sang](https://fr.linkedin.com/in/megan-li-mui-sang)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:meganlimuisang@gmail.com">
