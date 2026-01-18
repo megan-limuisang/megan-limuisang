@@ -28,10 +28,10 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
 
 ### 📂 Portfolio & Real-World Case Studies
 
-**[🚀 Main Repository: Business Case Studies](https://github.com/votre-username/business-case-studies)**
+**[🚀 Main Repository: Business Case Studies](https://github.com/megan-limuisang/business-case-studies)**
 > A compilation of real-world operational challenges solved through data analysis.
 
-* **[Audit & Migration: ERP to SaaS (QHSE)](https://github.com/votre-username/business-case-studies/tree/main/01-migration-erp-saas)**
+* **[Audit & Migration: ERP to SaaS (QHSE)](https://github.com/megan-limuisang/business-case-studies/tree/main/01-migration-erp-saas)**
     * **Goal:** Unblock a multi-site software rollout by fixing data silos and integrity issues.
     * **Action:** Diagnosed Row-Level Security (RLS) issues and engineered an ad-hoc ETL pipeline.
     * **Stack:** SQL, Excel, Data Governance.
