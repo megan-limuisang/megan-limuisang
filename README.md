@@ -73,3 +73,5 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
 ---
 
 <i>*Compétences acquises en contexte professionnel et/ou en cours de consolidation dans le cadre du MBA en préparation 2026/2027.*</i>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/696a4e29cfbef9e276c2634d?variant=light)](https://roadmap.sh)
