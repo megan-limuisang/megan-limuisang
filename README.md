@@ -19,7 +19,7 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
   <a href="mailto:meganlimuisang@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="...en cours...">
+  <a href="https://github.com/megan-limuisang/megan-limuisang/blob/main/CV_Megan%20LI%20MUI%20SANG_BA%20Junior_Alternance.pdf">
     <img src="https://img.shields.io/badge/Télécharger_CV-PDF-EA4335?style=flat-square&logo=adobepdf&logoColor=white"/>
   </a>
 </p>
