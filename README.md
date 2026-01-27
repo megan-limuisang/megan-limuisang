@@ -56,6 +56,10 @@ Je travaille sur des cas concrets orientés **business, opérations et prise de 
   <img src="https://skillicons.dev/icons?i=python,mysql,ai,ps,vscode,github&theme=light" />
 </p>
 
+<a href="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" target="_blank">
+   <img src="https://images.credly.com/size/680x680/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" width="150" height="150" alt="Credly Badge">
+</a>
+
 * **Excel (Avancé) :** TCD, RECHERCHEV(X), contrôles de données, Macro (VBA).
 * **ETL & Modélisation :** Power Query, Power Pivot, SQL (SELECT, JOIN, CTE, Subqueries).
 * **Python (Pandas) :** Data cleaning, transformation, analyse exploratoire (EDA).
